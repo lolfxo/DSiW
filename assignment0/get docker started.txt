@@ -1,0 +1,5 @@
+docker run -i -t --name cs5304 \
+-p 3003:3003 \
+-v 'pwd':/code \
+cs5304:a0 \
+/bin/bash
