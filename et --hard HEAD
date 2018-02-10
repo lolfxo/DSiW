@@ -1,0 +1,87 @@
+[33mcommit b0c0f2a067c749b677513ca502365de3496f6b09[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Hong <hongnoh12@gmail.com>
+Date:   Fri Feb 9 21:34:25 2018 -0500
+
+    including write-up
+    
+    including write-up
+
+[33mcommit 46f275136667d4fc7c14f6f5ab5f8ad4f15754e2[m
+Author: Hong <hongnoh12@gmail.com>
+Date:   Fri Feb 9 20:46:06 2018 -0500
+
+    remove data files
+    
+    Remove data files when uploading.
+
+[33mcommit 656de738c50079b0075e3ca54136448912449f49[m
+Author: Hong <hongnoh12@gmail.com>
+Date:   Fri Feb 9 14:23:56 2018 -0500
+
+    uploads of all assignment work
+    
+    Uploads of assignment work done so far.
+
+[33mcommit a839f02574d9f3851f51f7f78d6babe071527056[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d6c00f2 928851d
+Author: Hong <hongnoh12@gmail.com>
+Date:   Mon Feb 5 15:56:49 2018 -0500
+
+    Merge branch 'master' of https://github.com/lolfxo/DSiW
+
+[33mcommit d6c00f26009758f5325adecd6e2e16d5765c18b5[m
+Author: Hong <hongnoh12@gmail.com>
+Date:   Mon Feb 5 15:56:47 2018 -0500
+
+    files added for assignment1
+    
+    Jupyter Notebook added for assignment1
+
+[33mcommit 928851d33958e624fc0ebc71faf87d85ed13d5cf[m
+Merge: 2d8a191 b051985
+Author: Hong <hongnoh12@gmail.com>
+Date:   Mon Feb 5 15:20:30 2018 -0500
+
+    Merge branch 'master' of https://github.com/lolfxo/DSiW
+
+[33mcommit 2d8a1911b74eec4d0568e00ee583d106a1bd9579[m
+Author: Hong <hongnoh12@gmail.com>
+Date:   Mon Feb 5 15:20:24 2018 -0500
+
+    assignment1 preparation
+    
+    Preparation documents
+
+[33mcommit b0519854e892a8d60f80e5df79e074fbae6009b3[m
+Author: Hong <hongnoh12@gmail.com>
+Date:   Sun Feb 4 19:14:17 2018 -0500
+
+    delete
+
+[33mcommit 2dfa88fb29628040d1c16292020d5432dadd7829[m
+Author: Hong <hongnoh12@gmail.com>
+Date:   Sun Feb 4 19:13:56 2018 -0500
+
+    Create assignment1 folder
+
+[33mcommit a2b7c4c21f6c526279208603212040865a73bf18[m
+Author: Hong <hongnoh12@gmail.com>
+Date:   Tue Jan 30 08:42:10 2018 -0500
+
+    assignment0
+    
+    Jupyter notebook for assignment 0
+
+[33mcommit 108a1b687bcd880bb2e58bf715f6bfad2eb591c7[m
+Author: Hong <hongnoh12@gmail.com>
+Date:   Sat Jan 27 16:50:35 2018 -0500
+
+    DSiW homework dockerfile
+    
+    Getting started with assignment 0 for DSiW
+
+[33mcommit 5c058bd805d9423dce9ab3811ad6cb862248e7be[m
+Author: Hong <hongnoh12@gmail.com>
+Date:   Fri Jan 26 00:13:08 2018 -0500
+
+    Initial commit
