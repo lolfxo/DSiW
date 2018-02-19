@@ -21,17 +21,17 @@ def read_data(data_path, train_path, validation_path, test_path):
     set_all_ind = set(all_ind)
     
     # read in row numbers of train, validation and test data to be read
-    with open('train_ids.txt', 'r') as myfile:
+    with open(train_path, 'r') as myfile:
         train_ind = myfile.read().split(',')
     
     train_ind = list(map(int, train_ind))
         
-    with open('validation_ids.txt', 'r') as myfile:
+    with open(validation_path, 'r') as myfile:
         valid_ind = myfile.read().split(',')
         
     valid_ind = list(map(int, valid_ind))
     
-    with open('test_ids.txt', 'r') as myfile:
+    with open(test_path, 'r') as myfile:
         test_ind = myfile.read().split(',')
     
     test_ind = list(map(int, test_ind))
